@@ -4,7 +4,7 @@ Web Application using ASPNET Core web API entity framework core and angular from
 This is mainly a project to experiment with data relationships in Entity Framework Core.
 Has a messaging system and "like" functionality between users.
 
-﻿# Frameworks, and Other Resources
+## Frameworks, and Other Resources
 ASP.NET Core
 
 Angular 
@@ -19,10 +19,10 @@ ngx-bootstrap
 
 Time Ago Pipe
 
-﻿# Matches - Filtering and Sorting
+# Matches - Filtering and Sorting
 ![Matches](https://user-images.githubusercontent.com/54178015/96889077-eb44d380-148e-11eb-9252-9d8b0a5b9221.png)
 
-﻿# Photo Editor
+### Photo Editor
 ![Photos](https://user-images.githubusercontent.com/54178015/96889463-48408980-148f-11eb-9457-f0be7e649b60.png)
 
 ﻿# Messaging
