@@ -22,7 +22,7 @@ Time Ago Pipe
 ## Matches - Filtering and Sorting
 ![Matches](https://user-images.githubusercontent.com/54178015/96889077-eb44d380-148e-11eb-9252-9d8b0a5b9221.png)
 
-# Photo Editor
+## Photo Editor
 ![Photos](https://user-images.githubusercontent.com/54178015/96889463-48408980-148f-11eb-9457-f0be7e649b60.png)
 
 ## Messaging
